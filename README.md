@@ -33,6 +33,7 @@ This repository documents my hands-on practice with [WebGoat](https://owasp.org/
 ## Course Context
 
 **Unit:** 41182 System Security
+**Semester:** Autumn 2026
 **Institution:** University of Technology Sydney
 **Purpose:** Academic portfolio demonstrating applied security knowledge
 
